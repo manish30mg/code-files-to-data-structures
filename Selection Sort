@@ -1,4 +1,4 @@
-// Sort an array using Selection Sort
+// Sort an array using Selection Sort  
 
 class SelectionSort
 {
